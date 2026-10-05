@@ -46,7 +46,7 @@ export default function About() {
           <div class="lg:col-span-7 space-y-6" data-aos="fade-left" data-aos-duration="1000">
             <div class="relative">
               <img
-                src="./assets/images/profile 2.jpeg"
+                src="/assets/images/profile 2.jpeg"
                 alt="Shelmond Eugene Bimantara Working"
                 class="w-full h-64 sm:h-80 object-cover rounded-3xl border border-white/15 shadow-2xl mb-8"
               />

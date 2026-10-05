@@ -70,7 +70,7 @@ export default function Hero() {
                 transition-transform duration-500 group-hover:scale-105"
               >
                 <img
-                  src="./assets/images/profile.jpg"
+                  src="/assets/images/profile.jpg"
                   alt="Shelmond Eugene Bimantara Profile"
                   class="w-full h-full object-cover"
                 />
