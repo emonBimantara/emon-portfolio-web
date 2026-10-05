@@ -1,0 +1,15 @@
+export const techStackData = [
+  { name: "HTML", icon: "./assets/images/tools/html.png" },
+  { name: "CSS", icon: "./assets/images/tools/css.png" },
+  { name: "JavaScript", icon: "./assets/images/tools/js.png" },
+  { name: "Dart", icon: "./assets/images/tools/dart.png" },
+  { name: "Tailwind", icon: "./assets/images/tools/tailwind.png" },
+  { name: "GitHub", icon: "./assets/images/tools/github.png" },
+  { name: "Figma", icon: "./assets/images/tools/figma.png" },
+  { name: "React", icon: "./assets/images/tools/reactjs.png" },
+  { name: "Next JS", icon: "./assets/images/tools/nextjs.png" },
+  { name: "Flutter", icon: "./assets/images/tools/flutter.png" },
+  { name: "Firebase", icon: "./assets/images/tools/firebase.png" },
+  { name: "Supabase", icon: "./assets/images/tools/supabase-logo-icon.png" },
+  { name: "Express JS", icon: "./assets/images/tools/express-js.png" },
+];
